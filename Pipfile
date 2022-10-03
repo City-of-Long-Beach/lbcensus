@@ -10,6 +10,7 @@ matplotlib = "*"
 requests = "*"
 rtree = "*"
 ipython = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
