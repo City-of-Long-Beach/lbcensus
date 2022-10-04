@@ -11,6 +11,7 @@ requests = "*"
 rtree = "*"
 ipython = "*"
 python-dotenv = "*"
+census = "*"
 
 [dev-packages]
 
